@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1KQtwoms_FtmePbcuKZVKPf3ZQXdvk5Js
 """
 
-pip install python-docx
+#pip install python-docx
 
 # import libraries
 import pandas as pd
