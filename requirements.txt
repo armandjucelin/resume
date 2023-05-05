@@ -1,3 +1,0 @@
-docx
-streamlit
-pandas
